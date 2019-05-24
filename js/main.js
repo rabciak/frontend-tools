@@ -1,1 +1,1 @@
-"use strict";console.log("Hello world 🚀"),alert("pzoz");
+"use strict";console.log("Hello world 🚀")
